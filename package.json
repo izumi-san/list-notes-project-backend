@@ -1,0 +1,23 @@
+{
+  "name": "list-notes-project-backend",
+  "version": "1.0.0",
+  "description": "This project will feature a API to save, edit, delete and list notes from the project list-notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izumi-san/list-notes-project-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izumi-san/list-notes-project-backend/issues"
+  },
+  "homepage": "https://github.com/izumi-san/list-notes-project-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
