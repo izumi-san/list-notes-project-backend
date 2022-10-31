@@ -8,6 +8,7 @@ This project will use architecture from this [article](https://dev.to/pacheco/de
 
 ## Stuff TODO
 
+- [X] Created the directories controllers/models/services - (31/10/22);
 - [ ] Study a safe way to connect with database;
 - [ ] Connect to database;
 - [ ] Create "note" model;
